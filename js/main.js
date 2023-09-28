@@ -116,8 +116,8 @@
   });
 })(jQuery);
 
-const test = document.querySelector(".test");
+// const test = document.querySelector(".test");
 
-test.forEach((element) => {
-  console.log(test);
-});
+// test.forEach((element) => {
+//   console.log(test);
+// });
